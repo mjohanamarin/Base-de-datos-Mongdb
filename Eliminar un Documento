@@ -1,0 +1,6 @@
+db.inmuebles.deleteOne(
+  { _id: ObjectId("691ff488590b84d6f7bf8207") }
+)
+db.inmuebles.deleteOne(
+  { _id: ObjectId("691ff488590b84d6f7bf8214") }
+)
