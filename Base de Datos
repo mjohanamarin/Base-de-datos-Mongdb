@@ -1,0 +1,1582 @@
+[{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8207"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Ana Gómez",
+  "arrendado": false,
+  "precio": 980000,
+  "area": 63
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8209"
+  },
+  "tipo": "Casa",
+  "ciudad": "Barranquilla",
+  "propietario": "María Ruiz",
+  "arrendado": false,
+  "precio": 1780000,
+  "area": 94
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf820a"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cartagena",
+  "propietario": "Luis Torres",
+  "arrendado": false,
+  "precio": 2100000,
+  "area": 70
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf820b"
+  },
+  "tipo": "Casa",
+  "ciudad": "Pereira",
+  "propietario": "Sofía Ríos",
+  "arrendado": true,
+  "precio": 1300000,
+  "area": 78
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf820c"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Bucaramanga",
+  "propietario": "Pedro Castillo",
+  "arrendado": false,
+  "precio": 2600000,
+  "area": 140
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf820d"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cúcuta",
+  "propietario": "Laura García",
+  "arrendado": true,
+  "precio": 1150000,
+  "area": 66
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf820e"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Jorge Nieto",
+  "arrendado": false,
+  "precio": 1950000,
+  "area": 88
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf820f"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Andrea Moreno",
+  "arrendado": true,
+  "precio": 1220000,
+  "area": 75
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8211"
+  },
+  "tipo": "Casa",
+  "ciudad": "Barranquilla",
+  "propietario": "Camila Salazar",
+  "arrendado": true,
+  "precio": 1450000,
+  "area": 82
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8212"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Sara Velásquez",
+  "arrendado": false,
+  "precio": 1080000,
+  "area": 58
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8213"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Manuel Herrera",
+  "arrendado": true,
+  "precio": 1700000,
+  "area": 91
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8214"
+  },
+  "tipo": "Local",
+  "ciudad": "Medellín",
+  "propietario": "Daniel Restrepo",
+  "arrendado": true,
+  "precio": 2900000,
+  "area": 135
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8215"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Paola Muñoz",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 64
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8216"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cartagena",
+  "propietario": "Fernando Ruiz",
+  "arrendado": true,
+  "precio": 1850000,
+  "area": 95
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8217"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Barranquilla",
+  "propietario": "Diana López",
+  "arrendado": false,
+  "precio": 1120000,
+  "area": 72
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8218"
+  },
+  "tipo": "Local",
+  "ciudad": "Bogotá",
+  "propietario": "Oscar Martínez",
+  "arrendado": true,
+  "precio": 3500000,
+  "area": 180
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8219"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Claudia Sierra",
+  "arrendado": false,
+  "precio": 1650000,
+  "area": 85
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf821a"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cúcuta",
+  "propietario": "Julián Ortiz",
+  "arrendado": false,
+  "precio": 1050000,
+  "area": 54
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf821b"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Rosa Benítez",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 88
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf821c"
+  },
+  "tipo": "Local",
+  "ciudad": "Pereira",
+  "propietario": "Mario Vargas",
+  "arrendado": false,
+  "precio": 2700000,
+  "area": 145
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf821d"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Lucía Ramírez",
+  "arrendado": true,
+  "precio": 1250000,
+  "area": 68
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf821e"
+  },
+  "tipo": "Casa",
+  "ciudad": "Barranquilla",
+  "propietario": "Raúl Castillo",
+  "arrendado": false,
+  "precio": 1900000,
+  "area": 97
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf821f"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Elena Prieto",
+  "arrendado": true,
+  "precio": 1100000,
+  "area": 61
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8221"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cartagena",
+  "propietario": "Natalia Cifuentes",
+  "arrendado": false,
+  "precio": 2100000,
+  "area": 102
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8222"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "David Parra",
+  "arrendado": true,
+  "precio": 1300000,
+  "area": 73
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8223"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Mónica Duarte",
+  "arrendado": false,
+  "precio": 1850000,
+  "area": 89
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8224"
+  },
+  "tipo": "Local",
+  "ciudad": "Barranquilla",
+  "propietario": "Hernán Lagos",
+  "arrendado": true,
+  "precio": 2950000,
+  "area": 155
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8225"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cúcuta",
+  "propietario": "Viviana Torres",
+  "arrendado": false,
+  "precio": 980000,
+  "area": 52
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8226"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Gabriel Arias",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 93
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8227"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Tatiana Gil",
+  "arrendado": true,
+  "precio": 1200000,
+  "area": 76
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8228"
+  },
+  "tipo": "Local",
+  "ciudad": "Bogotá",
+  "propietario": "Felipe Ríos",
+  "arrendado": false,
+  "precio": 3100000,
+  "area": 165
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8229"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Esteban Díaz",
+  "arrendado": true,
+  "precio": 1500000,
+  "area": 84
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf822a"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Daniela Bautista",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 60
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf822b"
+  },
+  "tipo": "Casa",
+  "ciudad": "Barranquilla",
+  "propietario": "Sandra Cardona",
+  "arrendado": true,
+  "precio": 1650000,
+  "area": 92
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf822c"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Andrés Lozano",
+  "arrendado": false,
+  "precio": 1280000,
+  "area": 69
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf822d"
+  },
+  "tipo": "Local",
+  "ciudad": "Medellín",
+  "propietario": "Patricia Fonseca",
+  "arrendado": true,
+  "precio": 3400000,
+  "area": 175
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf822e"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Mauricio Peña",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 98
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf822f"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cartagena",
+  "propietario": "Laura Peña",
+  "arrendado": true,
+  "precio": 1400000,
+  "area": 79
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8230"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Nicolás Vargas",
+  "arrendado": false,
+  "precio": 2100000,
+  "area": 104
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8231"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Juliana Duarte",
+  "arrendado": true,
+  "precio": 1130000,
+  "area": 65
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8232"
+  },
+  "tipo": "Local",
+  "ciudad": "Cúcuta",
+  "propietario": "Sergio Pardo",
+  "arrendado": false,
+  "precio": 2500000,
+  "area": 135
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8233"
+  },
+  "tipo": "Casa",
+  "ciudad": "Barranquilla",
+  "propietario": "Martina Ochoa",
+  "arrendado": true,
+  "precio": 1600000,
+  "area": 86
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8234"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Samuel Salas",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 59
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8235"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Marisol Gamboa",
+  "arrendado": true,
+  "precio": 1850000,
+  "area": 91
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8236"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Sebastián Ríos",
+  "arrendado": false,
+  "precio": 1180000,
+  "area": 74
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8237"
+  },
+  "tipo": "Local",
+  "ciudad": "Barranquilla",
+  "propietario": "Pablo Méndez",
+  "arrendado": true,
+  "precio": 3250000,
+  "area": 142
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8238"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Isabel Flórez",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 94
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8239"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Carmen Ruiz",
+  "arrendado": true,
+  "precio": 1080000,
+  "area": 63
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf823a"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Oscar Rivera",
+  "arrendado": true,
+  "precio": 1950000,
+  "area": 100
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf823b"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Jimena Rivera",
+  "arrendado": false,
+  "precio": 1090000,
+  "area": 57
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf823d"
+  },
+  "tipo": "Casa",
+  "ciudad": "Barranquilla",
+  "propietario": "Lucía Castro",
+  "arrendado": false,
+  "precio": 1700000,
+  "area": 88
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf823e"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Henry Lozano",
+  "arrendado": true,
+  "precio": 1250000,
+  "area": 69
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf823f"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Laura Medina",
+  "arrendado": false,
+  "precio": 1900000,
+  "area": 96
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8240"
+  },
+  "tipo": "Local",
+  "ciudad": "Cúcuta",
+  "propietario": "Alejandro Torres",
+  "arrendado": true,
+  "precio": 2600000,
+  "area": 138
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8241"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Rafael Pérez",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 56
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8242"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Adriana Molina",
+  "arrendado": true,
+  "precio": 1850000,
+  "area": 93
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8243"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Cristian Marín",
+  "arrendado": false,
+  "precio": 1050000,
+  "area": 52
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8244"
+  },
+  "tipo": "Local",
+  "ciudad": "Medellín",
+  "propietario": "Federico Soto",
+  "arrendado": true,
+  "precio": 3000000,
+  "area": 148
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8245"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cartagena",
+  "propietario": "Margarita Díaz",
+  "arrendado": false,
+  "precio": 2200000,
+  "area": 112
+},
+{
+  "_id": {
+    "$oid": "691ff488590b84d6f7bf8246"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Camilo Suárez",
+  "arrendado": true,
+  "precio": 1300000,
+  "area": 71
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8248"
+  },
+  "tipo": "Local",
+  "ciudad": "Bogotá",
+  "propietario": "Felipe Duarte",
+  "arrendado": false,
+  "precio": 1250000,
+  "area": 47
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8249"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Marisol Herrera",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 130
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf824a"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Andrés Monroy",
+  "arrendado": false,
+  "precio": 980000,
+  "area": 62
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf824b"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Barranquilla",
+  "propietario": "Jorge Sarmiento",
+  "arrendado": true,
+  "precio": 3500000,
+  "area": 240
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf824c"
+  },
+  "tipo": "Local",
+  "ciudad": "Cartagena",
+  "propietario": "Luisa Benítez",
+  "arrendado": false,
+  "precio": 1450000,
+  "area": 55
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf824d"
+  },
+  "tipo": "Casa",
+  "ciudad": "Pereira",
+  "propietario": "Claudia Niño",
+  "arrendado": true,
+  "precio": 1600000,
+  "area": 110
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf824e"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bucaramanga",
+  "propietario": "Iván Cote",
+  "arrendado": true,
+  "precio": 1050000,
+  "area": 70
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf824f"
+  },
+  "tipo": "Local",
+  "ciudad": "Medellín",
+  "propietario": "Julio Correa",
+  "arrendado": false,
+  "precio": 1350000,
+  "area": 50
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8250"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Nancy Rivas",
+  "arrendado": true,
+  "precio": 2800000,
+  "area": 150
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8251"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Pedro Díaz",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 58
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8252"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Bogotá",
+  "propietario": "Ramiro Páez",
+  "arrendado": false,
+  "precio": 4100000,
+  "area": 300
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8253"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Sofía Gaviria",
+  "arrendado": true,
+  "precio": 1900000,
+  "area": 120
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8254"
+  },
+  "tipo": "Local",
+  "ciudad": "Barranquilla",
+  "propietario": "Javier Martínez",
+  "arrendado": true,
+  "precio": 1650000,
+  "area": 64
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8255"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Daniela Vargas",
+  "arrendado": false,
+  "precio": 920000,
+  "area": 60
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8256"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Rocío Gutiérrez",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 102
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8257"
+  },
+  "tipo": "Local",
+  "ciudad": "Bogotá",
+  "propietario": "Alejandro Pérez",
+  "arrendado": false,
+  "precio": 1400000,
+  "area": 53
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8258"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Diana Cárdenas",
+  "arrendado": true,
+  "precio": 950000,
+  "area": 67
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8259"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Cali",
+  "propietario": "Mario Camacho",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 220
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf825a"
+  },
+  "tipo": "Casa",
+  "ciudad": "Barranquilla",
+  "propietario": "Helena Meza",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 140
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf825b"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Sebastián Rocha",
+  "arrendado": false,
+  "precio": 1150000,
+  "area": 78
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf825c"
+  },
+  "tipo": "Local",
+  "ciudad": "Cúcuta",
+  "propietario": "Federico Luna",
+  "arrendado": true,
+  "precio": 900000,
+  "area": 40
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf825d"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Natalia Hoyos",
+  "arrendado": false,
+  "precio": 1500000,
+  "area": 95
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf825e"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Óscar Molina",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 55
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf825f"
+  },
+  "tipo": "Local",
+  "ciudad": "Santa Marta",
+  "propietario": "Lucero Peña",
+  "arrendado": false,
+  "precio": 1300000,
+  "area": 52
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8260"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Carlos Salamanca",
+  "arrendado": true,
+  "precio": 2600000,
+  "area": 145
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8261"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Valentina Cruz",
+  "arrendado": false,
+  "precio": 900000,
+  "area": 63
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8262"
+  },
+  "tipo": "Local",
+  "ciudad": "Medellín",
+  "propietario": "Tomás Castaño",
+  "arrendado": true,
+  "precio": 1500000,
+  "area": 59
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8263"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Barranquilla",
+  "propietario": "Gerardo Salas",
+  "arrendado": false,
+  "precio": 3700000,
+  "area": 260
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8264"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Melisa Roldán",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 115
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8265"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Jhon Quintero",
+  "arrendado": false,
+  "precio": 1120000,
+  "area": 72
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8266"
+  },
+  "tipo": "Local",
+  "ciudad": "Cartagena",
+  "propietario": "Sara Prieto",
+  "arrendado": true,
+  "precio": 980000,
+  "area": 44
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8267"
+  },
+  "tipo": "Casa",
+  "ciudad": "Pereira",
+  "propietario": "Germán Arias",
+  "arrendado": false,
+  "precio": 1650000,
+  "area": 108
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8268"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bucaramanga",
+  "propietario": "Clara Tovar",
+  "arrendado": true,
+  "precio": 890000,
+  "area": 57
+},
+{
+  "_id": {
+    "$oid": "691ff5a4590b84d6f7bf8269"
+  },
+  "tipo": "Local",
+  "ciudad": "Bogotá",
+  "propietario": "Mauricio Falla",
+  "arrendado": false,
+  "precio": 1550000,
+  "area": 61
+},
+{
+  "_id": {
+    "$oid": "691ff5c7590b84d6f7bf826b"
+  },
+  "tipo": "Casa",
+  "ciudad": "Manizales",
+  "propietario": "Eduardo Montes",
+  "arrendado": false,
+  "precio": 1720000,
+  "area": 104
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8274"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Andrea Ríos",
+  "arrendado": false,
+  "precio": 1450000,
+  "area": 76
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8275"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Julio Medina",
+  "arrendado": true,
+  "precio": 2100000,
+  "area": 89
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8277"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Barranquilla",
+  "propietario": "Pedro Torres",
+  "arrendado": true,
+  "precio": 5000000,
+  "area": 260
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8278"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bucaramanga",
+  "propietario": "Luis Parra",
+  "arrendado": false,
+  "precio": 1320000,
+  "area": 68
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8279"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Mariana López",
+  "arrendado": true,
+  "precio": 1880000,
+  "area": 72
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf827a"
+  },
+  "tipo": "Local",
+  "ciudad": "Cartagena",
+  "propietario": "Carlos Reyes",
+  "arrendado": false,
+  "precio": 4100000,
+  "area": 150
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf827b"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cúcuta",
+  "propietario": "Diana Morales",
+  "arrendado": true,
+  "precio": 1500000,
+  "area": 80
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf827c"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Manizales",
+  "propietario": "Sergio Navarro",
+  "arrendado": false,
+  "precio": 1650000,
+  "area": 64
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf827d"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Bogotá",
+  "propietario": "Hernán Cruz",
+  "arrendado": true,
+  "precio": 5200000,
+  "area": 300
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf827e"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Julia Aguirre",
+  "arrendado": false,
+  "precio": 1700000,
+  "area": 90
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf827f"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Camilo Vargas",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 70
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8280"
+  },
+  "tipo": "Local",
+  "ciudad": "Barranquilla",
+  "propietario": "Natalia Peñaloza",
+  "arrendado": true,
+  "precio": 3500000,
+  "area": 130
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8281"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cartagena",
+  "propietario": "Jorge Ospina",
+  "arrendado": false,
+  "precio": 1900000,
+  "area": 95
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8282"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Elena Bermúdez",
+  "arrendado": true,
+  "precio": 2100000,
+  "area": 78
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8283"
+  },
+  "tipo": "Local",
+  "ciudad": "Pereira",
+  "propietario": "Samuel García",
+  "arrendado": false,
+  "precio": 2800000,
+  "area": 112
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8284"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Cali",
+  "propietario": "Pablo Méndez",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 250
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8285"
+  },
+  "tipo": "Casa",
+  "ciudad": "Manizales",
+  "propietario": "Laureano Ruiz",
+  "arrendado": false,
+  "precio": 1520000,
+  "area": 85
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8286"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bucaramanga",
+  "propietario": "Merly Roldán",
+  "arrendado": true,
+  "precio": 1750000,
+  "area": 66
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8287"
+  },
+  "tipo": "Local",
+  "ciudad": "Cartagena",
+  "propietario": "Tania Gil",
+  "arrendado": false,
+  "precio": 3900000,
+  "area": 145
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8288"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cúcuta",
+  "propietario": "Mario Cuervo",
+  "arrendado": true,
+  "precio": 1600000,
+  "area": 92
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8289"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Medellín",
+  "propietario": "Sandra Meneses",
+  "arrendado": false,
+  "precio": 1850000,
+  "area": 74
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf828a"
+  },
+  "tipo": "Local",
+  "ciudad": "Bogotá",
+  "propietario": "Henry Gaitán",
+  "arrendado": true,
+  "precio": 4200000,
+  "area": 155
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf828b"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Pereira",
+  "propietario": "Edwin Muñoz",
+  "arrendado": false,
+  "precio": 4800000,
+  "area": 240
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf828c"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Carmen Palacios",
+  "arrendado": true,
+  "precio": 2000000,
+  "area": 70
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf828d"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Barranquilla",
+  "propietario": "Óscar Rueda",
+  "arrendado": false,
+  "precio": 1600000,
+  "area": 60
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf828e"
+  },
+  "tipo": "Local",
+  "ciudad": "Bucaramanga",
+  "propietario": "Hugo Pineda",
+  "arrendado": true,
+  "precio": 3100000,
+  "area": 120
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf828f"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Rafael Bustos",
+  "arrendado": false,
+  "precio": 1750000,
+  "area": 88
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8290"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Lucía Forero",
+  "arrendado": true,
+  "precio": 1950000,
+  "area": 72
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8291"
+  },
+  "tipo": "Local",
+  "ciudad": "Cartagena",
+  "propietario": "Fernando Polo",
+  "arrendado": false,
+  "precio": 3600000,
+  "area": 140
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8292"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Cúcuta",
+  "propietario": "Marcos Vélez",
+  "arrendado": true,
+  "precio": 5100000,
+  "area": 270
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8293"
+  },
+  "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Elisa Peñaranda",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 76
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8294"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Pereira",
+  "propietario": "Andrés Valderrama",
+  "arrendado": true,
+  "precio": 1820000,
+  "area": 69
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8295"
+  },
+  "tipo": "Local",
+  "ciudad": "Barranquilla",
+  "propietario": "Rosa Gómez",
+  "arrendado": false,
+  "precio": 3300000,
+  "area": 125
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8296"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Beatriz Cifuentes",
+  "arrendado": true,
+  "precio": 1580000,
+  "area": 83
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8297"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Manizales",
+  "propietario": "Adrián Herrera",
+  "arrendado": false,
+  "precio": 1720000,
+  "area": 65
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8298"
+  },
+  "tipo": "Local",
+  "ciudad": "Medellín",
+  "propietario": "Claudia Rivera",
+  "arrendado": true,
+  "precio": 3400000,
+  "area": 135
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf8299"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Cali",
+  "propietario": "Luis Gamboa",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 255
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf829a"
+  },
+  "tipo": "Casa",
+  "ciudad": "Pereira",
+  "propietario": "Nicolás Perdomo",
+  "arrendado": true,
+  "precio": 1480000,
+  "area": 78
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf829b"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Cecilia Rosales",
+  "arrendado": false,
+  "precio": 1920000,
+  "area": 71
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf829c"
+  },
+  "tipo": "Local",
+  "ciudad": "Cúcuta",
+  "propietario": "Jhon Silva",
+  "arrendado": true,
+  "precio": 3450000,
+  "area": 118
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf829d"
+  },
+  "tipo": "Casa",
+  "ciudad": "Bucaramanga",
+  "propietario": "Irma Castellanos",
+  "arrendado": false,
+  "precio": 1360000,
+  "area": 74
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf829e"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Barranquilla",
+  "propietario": "Kevin Morales",
+  "arrendado": true,
+  "precio": 1780000,
+  "area": 67
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf829f"
+  },
+  "tipo": "Local",
+  "ciudad": "Cartagena",
+  "propietario": "Vanessa Hoyos",
+  "arrendado": false,
+  "precio": 3850000,
+  "area": 143
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf82a0"
+  },
+  "tipo": "Casa",
+  "ciudad": "Medellín",
+  "propietario": "Gustavo Zapata",
+  "arrendado": true,
+  "precio": 1660000,
+  "area": 82
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf82a1"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Cali",
+  "propietario": "Carolina Díaz",
+  "arrendado": false,
+  "precio": 2000000,
+  "area": 73
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf82a2"
+  },
+  "tipo": "Local",
+  "ciudad": "Bogotá",
+  "propietario": "Mauricio Rincón",
+  "arrendado": true,
+  "precio": 3550000,
+  "area": 128
+},
+{
+  "_id": {
+    "$oid": "691ff8de590b84d6f7bf82a3"
+  },
+  "tipo": "Bodega",
+  "ciudad": "Manizales",
+  "propietario": "Felipe Lozano",
+  "arrendado": false,
+  "precio": 4950000,
+  "area": 260
+},
+{
+  "_id": {
+    "$oid": "691ff9f1590b84d6f7bf82a5"
+  },
+  "tipo": "Apartamento",
+  "ciudad": "Bogotá",
+  "propietario": "Sebastián Rojas",
+  "arrendado": false,
+  "precio": 1200000,
+  "area": 55
+},
+{
+  "_id": "691ff488599b84d6f7bf8206",
+  "tipo": "Casa",
+  "ciudad": "Bogotá",
+  "propietario": "Juann Pérez",
+  "arrendado": true,
+  "precio": 1530000,
+  "area": 82
+}]
