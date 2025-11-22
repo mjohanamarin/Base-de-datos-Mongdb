@@ -1,0 +1,20 @@
+{
+tipo: "Casa"
+}
+
+{
+  arrendado: true
+}
+
+{
+ciudad : "Bogotá"
+}
+
+{
+tipo : "Bodega", arrendado:true
+}
+
+{
+tipo : "Casa", ciudad:"Medellín",arrendado:false
+}
+
