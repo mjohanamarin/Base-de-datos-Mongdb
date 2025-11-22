@@ -1,0 +1,28 @@
+db.inmuebles.updateOne(
+  { _id: ObjectId("691ff488590b84d6f7bf8207") },
+  { $set: { arrendado: true } }
+)
+
+db.inmuebles.updateOne(
+  { _id: ObjectId("691ff488590b84d6f7bf8207") },
+  {
+    $set: {
+      arrendado: true,
+      arrendatario: "Lorena Jimenez",
+      fecha_inicio: "2025-11-22"
+    },
+    $push: {
+      historial: {
+        arrendatario: "Lorena Jimenez",
+        fecha_inicio: "2025-11-22",
+        fecha_fin: null
+      }
+    }
+  }
+)
+
+db.inmuebles.updateOne(
+  { _id: ObjectId("691ff488590b84d6f7bf8207") },
+  { $set: { tipo: "casa" } }
+)
+
