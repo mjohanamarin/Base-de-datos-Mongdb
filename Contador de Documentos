@@ -1,0 +1,36 @@
+[
+    {
+        '$match': {
+            'ciudad': 'Bogotá'
+        }
+    }, {
+        '$group': {
+            '_id': 'total_inmuebles_bogota', 
+            'cantidad': {
+                '$sum': 1
+            }
+        }
+    }
+]
+
+[
+    {
+        '$group': {
+            '_id': '$ciudad', 
+            'cantidad': {
+                '$sum': 1
+            }
+        }
+    }
+]
+
+[
+    {
+        '$group': {
+            '_id': '$tipo', 
+            'cantidad': {
+                '$sum': 1
+            }
+        }
+    }
+]
