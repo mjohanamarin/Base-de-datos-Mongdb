@@ -1,0 +1,15 @@
+db.inmuebles.aggregate([
+  { $match: { tipo: "Casa" }},
+  { $group: {
+      _id: "Casa",
+      promedio_area: { $avg: "$area" }
+  }}
+])
+
+db.inmuebles.aggregate([
+  { $group: {
+      _id: null,
+      promedio_precio: { $avg: "$precio" }
+  }}
+])
+
