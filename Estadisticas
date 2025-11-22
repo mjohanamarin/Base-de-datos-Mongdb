@@ -49,3 +49,11 @@
     }
   }
 }
+
+db.inmuebles.aggregate([
+  { $group: {
+      _id: null,
+      precio_minimo: { $min: "$precio" }
+  }}
+])
+
