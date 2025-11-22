@@ -1,0 +1,31 @@
+[
+  {
+    "tipo": "Casa",
+  "ciudad": "Cali",
+  "propietario": "Maria Marin",
+  "arrendado": false,
+  "precio": 1100000,
+  "area": 120
+  },
+{
+  "tipo": "Bodega",
+  "ciudad": "Bogotá",
+  "propietario": "Luis Quiñones",
+  "arrendado": true,
+  "precio": 900000,
+  "area": 50
+},
+  {"tipo": "Local",
+  "ciudad": "Medellín",
+  "propietario": "Jhon Marin",
+  "arrendado": true,
+  "precio": 2500000,
+  "area": 140},
+  
+  {"tipo": "Apartamento",
+  "ciudad": "Barranquilla",
+  "propietario": "Nicolle Guzman",
+  "arrendado": false,
+  "precio": 800000,
+  "area": 70}
+]
