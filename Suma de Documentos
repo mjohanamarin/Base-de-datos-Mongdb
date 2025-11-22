@@ -1,0 +1,48 @@
+[
+  {
+    $group: {
+      _id: null,
+      total_pendientes: {
+        $sum: "$precio"
+      }
+    }
+  },
+
+db.inmuebles.countDocuments()
+
+[
+  {
+    $match: {
+      arrendado: true
+    }
+  },
+  {
+    $group: {
+      _id: "pendientes_por_arrendar",
+      total_precio: {
+        $sum: "$precio"
+      },
+      cantidad_inmuebles: {
+        $sum: 1
+      }
+    }
+  }
+]
+
+[
+    {
+        '$match': {
+            'arrendado': False
+        }
+    }, {
+        '$group': {
+            '_id': 'pendientes_por_arrendar', 
+            'total_precio': {
+                '$sum': '$precio'
+            }, 
+            'cantidad_inmuebles': {
+                '$sum': 1
+            }
+        }
+    }
+]
